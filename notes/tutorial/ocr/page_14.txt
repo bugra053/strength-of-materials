@@ -1,0 +1,55 @@
+Source: tutorial; original PDF page 14.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_14.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+EXAMPLE
+(2-26)
+The material distats into the dashed pesition shewn. Deterimeie
+Wea strein giny at F, and (o the sueage normal stroin
+nises AC and CD and the
+arang line BE.
+25
+10
+90
+75
+80mm
+-BE=\(90-75)+802
+= 6625
+LAC"
+= V 100= + 15=
+=V10225
+~m
+Lc'D' = 80 - 15 +25 =90mm
+4 = Łan
+(n5) = 14,04° (5 rad) = 0,2450 rad
+L
+90
+15
+100
+=>
+LBB' = 13,5 MM
+L EEỊẠỊi
+25
+75
+= 100
+=> LEE' = 18,75 mm
+LBE' =) (90-75)"+ (80-13,5 +18,75)=
+=\7492,5625 młął
+EAC
+LAC'-LAC
+LAC
+ECD=
+Le'D' - LCD
+V10225 -100 =0,0112
+100
+90-80
+LcD
+→ = 0,125
+ЕBE =
+LB'E'-LAE
+17492,5625 -V6625
+- =0,0635
+LBE
+U6625
+Y>90° >SHEAR STRAIN IS NEGATIVE
+(0,2h5 rad)

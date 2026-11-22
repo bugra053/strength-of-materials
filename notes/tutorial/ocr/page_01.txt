@@ -1,0 +1,39 @@
+Source: tutorial; original PDF page 1.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_01.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+Strength of Materials 1
+10.10.2025.
+- surface force vs. concentrated force
+VECTOR:
+magnitude it/}LImIZIFIINI
+direction
+sense
+- body force
+- support reaction
+Fx
+cable
+roLLer
+Eguation of Eguilibrium:
+£F =0
+≤ Mo = O
+£FY=O
+{My=O
+pin
+—Fx
+fixed
+2Fx= 0
+½ Mx =0
+20 =>
+4Fx=0
+2 Fy =0
+2Mo =0
+if VF is negative; TF
+2FZ=0
+4 Mz=0
+FY
+Fx
+Fx = F • cOSL
+Fy =F•sind
+- uncLear exercise? sprioritized
+23.10.2025. →tutoriaL

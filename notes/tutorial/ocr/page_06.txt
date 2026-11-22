@@ -1,0 +1,20 @@
+Source: tutorial; original PDF page 6.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_06.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+EXAMPLE @
+8kN1
+L[mm]
+a) average normal stress at a-a?
+b) show the distribution of stress acting
+over the area's cross section.
+A = 2.150 ￾10+ 140-10 = 4400mm= = 4,4.10-3m=
+P
+8000 N
+б =
+4400mm= = 1,82МРа
+for
+8.10
+4,4 • (10-→)
+8kN
+1,82 MPa

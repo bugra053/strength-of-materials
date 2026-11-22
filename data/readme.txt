@@ -1,0 +1,1 @@
+Page titles and notes in page_index.json were manually summarized after visual inspection. They are topic locators, not full transcriptions or an answer key. OCR files are automatic and unverified; original PDF/page images are authoritative for source content. All calculations must still be independently checked.

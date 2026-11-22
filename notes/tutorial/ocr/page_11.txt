@@ -1,0 +1,49 @@
+Source: tutorial; original PDF page 11.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_11.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+EXAMPLE
+The vigid beam is suppted ly a pin
+dt A and wires BD and CE. If the
+load p an the weam causes the and C to le
+displaced 10 mm dewnward, determine the vommal train
+deverped in uries CE and BD
+IIomm
+3m
+am
+TALBR
+4 LcE =10mm
+4LBD
+ALCE
+7
+ALBD • 7=ALCE • 3
+1-BD =
+ALCE •3
+10.3
+= 4,286mm
+ECE =
+A-CE =
+EBD=
+ALB0
+10
+4000
+4,286
+4000
+= 0,00250 Mmś
+= 0,00107
+EXAMPLE
+The tue wives are connected together et A. If the ferce F
+causes pant A to le dis
+herisantally 2 mm, detemine
+the vornal strain develped in each wive
+cosine
+Eheorem
+LAC (a)
+300
+(b)
+300 мм
+a= b+c_2bc.cost
+L'AC = 300" +2ª - 2.300•2.cOS150° =301,734 mm
+EAC= EAB = LAC-LAC
+301,734-300ś
+=0,00578

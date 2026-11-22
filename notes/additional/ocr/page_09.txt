@@ -1,0 +1,40 @@
+Source: additional; original PDF page 9.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_09.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+EXAMPLE
+3-2šŚ
+The acrylic partic vod is 200 mm teng and
+15 mm in diameter. If an axial lead el 3001
+is applied to it, determine the change in its length and the
+change in its diameter. Ep = 2,7 GPa; Vp =0,4.
+300N
+300N
+200мm
+300
+· (0,015) = = 1,697 MPa
+ELong = È = 1,697.10
+2,7.10°
+-=0,0006288
+8 = Eng L = 0,0006288.200=0,126 mm
+ELot = - VELny = -0,4 •0,0006288 = - 0,0002515
+Dd = ELat .d = -0,0002515 .15 = -0,00377 mm
+EXAMPLE
+The suppat consists of thvee ngid
+3- 33
+plates, which are connected togetten using twr
+symmetsizally placed nubber pads. I a vatical ferce I5N
+is appled to pate A, deermune the approsamate vertical
+dirplacement ef this pate due to skear strains in the nibler.
+Eeach pad has cress- sectieval dimensiins of 30 mm and 20 m.
+Gr = 0,20 MPa
+2,5
+CAUG = A
+-= 0,03.0,02
+- = 4166,7 Pa
+40мл
+40m
+j = E = 416.6,7 = 0,0208arad 2,5N
+TДT2.SN
+SN
+8 =40 .0,02083=0,833 мm

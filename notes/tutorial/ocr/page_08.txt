@@ -1,0 +1,17 @@
+Source: tutorial; original PDF page 8.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_08.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+EXAMPLE
+F 1 -16
+If each of the three vails has a deameter of 4 mm and can
+wulthsand an
+average shear stess ef 60 MPa, determine the
+maximum clavable feree P that can be appled Fo the bead
+A = d25
+•= 5 (4mт)ął
+=J . 4шт" = 45 мт" = 12,566 mт=
+Fn = TaLL - A = 60 N
+n • 12,566 mKT = 753,98N
+3 na:LS:
+Pmax = 3Fn = 3. 753,98N = 2261,95 N= 2,26KN

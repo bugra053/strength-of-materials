@@ -1,0 +1,26 @@
+Source: tutorial; original PDF page 3.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_03.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+EXAMPLE 1.2.
+AC reaction?
+800 N/m
+F= 120N
+AY <
+200мm
+225 N
+F= W.a=100N/M. 0,15 m= 12 AMPLL
+2 MB =0
+-AY.0,4m+120N.0,125 m- 225NOA
+20
+A y =- 18,75 N
+40~
+(800.O55 M) =40~
+М c
+→Nc
+2 Fx = 0
+Nc=0
+2FT=O - 18/75N-MON-VC=0
+Vc =-58,8N
+{* ≤Mc=O; Mc+4ON (0,025n) +18,75N.0,25ni0
+Mc=-5,69NM

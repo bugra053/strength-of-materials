@@ -1,0 +1,54 @@
+Source: additional; original PDF page 7.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_07.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+EXAMPLE
+Detesmine the elergatien of the aguave hellaw
+3-16
+bar wben it is subjeded to the axial farce is
+increared to P =360kN and releared, find the
+permanent elangatia of the bar. The bar is wade ef a
+ppusintet as he en stres - stnan dibgram whuch san le
+600
+Ơ[MPа)
+500
+250
+0,00125
+0,05
+50
+А =0,05" - 0,04" =0,9￾10"%
+P=100KN => 61= A
+100 . (10)
+= 111,11 MPe
+0,9•10-3
+E :
+250.10-0
+0,00125 -0
+= 200GPa
+61<250 MPa => HOOKE'S LAW
+111,11.10°= 200.10° .Ел
+E1 = 0,5556,10-3
+01 = E1L = 0,5556•10
+3. 600 = 0,333 mm
+P =360kN
+52 - A = 360.103
+0,9.10-5 = 400MPał
+E2- 0,00125
+0,05-0,00125
+- => { 2 = 0,0305
+500-250
+400-250
+б[мРа ]
+WHEN PESCOKN IS REMOVED, THE STRAW RECOVERS
+CINCARLY ALONG LINE BC, PARALLEL TO DA:
+62 =E : E, → 400 •10'=200•10°Er
+hoo
+{,= 0,002
+250
+Ep = E2 - Er = 0,0305 -0,002 =0,0285
+Sp= Ep• L = 0,0285:600=17,1 мm
+бл
+P
+Lotsker|E2
+/0,05
+0,05

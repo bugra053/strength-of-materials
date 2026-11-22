@@ -1,0 +1,41 @@
+Source: tutorial; original PDF page 2.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_02.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+XAMPLE 1.1
+cantilevered beam
+270 N/M
+Determine the resultant internal
+Coadings actino
+on the cross
+section at C of the c.b
+3m
+Mhe
+180~/m
+..540~
+cross-section
+normal to
+c - S
+k 2m,
+w(g) = 500 ~
+4m
+WAB = 270 m
+WD= 270 =30N
+Wc =30.6= 180 m
+W = 480
+F = 2•a = 500-a
+=>
+F = 180 •6
+- = 540N
+5 (6m) =2m
+½ Fx =0
+p+
+≤Fy=O
++6≤Mc =0
+-Nc=O
+Nc =0
+VC -540N=0
+Vc=540N
+- Mc - 540N• 2m =0
+-Mc = 1080Nm
+Mc = 1080 Nm 5

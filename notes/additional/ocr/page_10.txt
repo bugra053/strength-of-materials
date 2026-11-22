@@ -1,0 +1,41 @@
+Source: additional; original PDF page 10.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_10.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+EXAMPLE
+The stone has a mass of 800 kg and renter of
+friction between the pad and the steve is M, =0,8, determine the
+appresimate herisantal dirplacement ef the steve, caured ly the shear
+ptrains in t pad, lefere the ste legins ter re pad tr mne tenmal
+matenial kaving E =4 MPа and V=0,35.
+800 ￾ 9,81=7848N
+000egac0oocode
+Тазм
+10,3M
+1,25
+1,5 m
+FB
+125m
+1,5 m
+{Mo
+=O
+{Fx
+=0
+FA . 2,75 -7848.1,25-P.0,3=0
+P- F = O
+F = MsFA= 0,8 • FA
+FA = 3908,37N
+=> F=P = 3126,69N
+V=F =3126,69 N
+= Ă =￾
+3126,69
+0,14.0,15
+• = 148,89kГа
+G = = (1+V] = 2(1+0,35) = 1,481 MPa
+148,89.103
+j1 =.
+1,481.106
+- = 0,1005 rad
+бр = h.р = 30.0,1005 =3,02 мm
+V= 3126,62N
+3126,69N

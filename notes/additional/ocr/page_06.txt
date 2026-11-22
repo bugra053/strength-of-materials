@@ -1,0 +1,34 @@
+Source: additional; original PDF page 6.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_06.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+31.10.2025.
+EXAMPLE
+3.14.
+The siged pire is suppated by a pin at A and an
+A-36 steel guy wine BD. I the wive has a diameter of 0,25 in%
+much it stretrhes when a lead ef P=600 ll.
+acts on the pipe.
+FвD
+60016.
+Аx
+3ft.
+3ft.
+3+t.
+3ft
+≤MA =0; FoD: ().3-600-6=0
+FBD =1500Lb
+БBD =
+FBD
+1500
+ABO
+= 30,56 .10° psi = 30,56 ksi
+5 (0,25)
+6BD< БY=36 ksi =S HOOKE'S <AW
+-tgo
+EBD (A-36) = 29000 ksi (200 GPa)
+OBD = E :EBD
+30,56 = 29 ￾10% EsD
+EBD = 1,054.10→ jAł
+UNSTRECHED LDD=V3'+4= =Sft = 6Oin
+=> SAD = EBO: LB0 = 1,054(10}). 60 = 0,0632 in.

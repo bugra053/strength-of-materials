@@ -1,0 +1,40 @@
+Source: tutorial; original PDF page 12.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_12.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+STRESS-STRAIN DIAGRAM
+REAL
+V1-mild steel
+ETRESS
+→1-upper yield
+point
+Yz- Lower yieLd
+→ uLtimate
+point
+STRESS
+tensile
+strength
+→ FRACTURE POINT
+sELd
+ateau
+→necking
+propertioneL
+Limit
+HOOKEỊẠỊiS LAW
+CONE1 ONE
+ZONE
+PLASTIC
+DARDENINOIFAILUE
+STRAIN
+EHAVIOR
+б=Е￾Е
+YOUNG'S MODULUS
+(MODULUS OF ELASTICITY)
+V2 - ALUminum
+TIELD
+STRENOTH
+R0,2
+0,2%
+V3- TEMPERATURE :same materiaL, brittle
+20° C
+40°C

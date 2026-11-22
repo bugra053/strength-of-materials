@@ -1,0 +1,29 @@
+Source: tutorial; original PDF page 5.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_05.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+STRENGTH OF MATERIALS
+TUTORIAL 2
+17.10.2025.
+- STRESS, AVERAGE NORMAL STRESS IN AN
+AXIALLY LOADED BAR, AVERAGE SHEAR STRESS,
+ALLOWABLE STRESS,DESIGN OF SIMPLE
+CONNECTIONS
+T+2
+stress: the intensity of the
+internal force seting chragpertia
+plane (avea) passing
+point.
+1 Pa = -
+mz
+Ẩm= = ￾
+MŇ=MPа
+- HOMOGENEOUS MATERIAL = same physical and
+mechanical properties threughant its volume
+- 1SOTROPIC MATE RIAL = same prepetiés inall dicctions
+F
+F =P
+6= A
+[= À
+F=V
+- CROSS-SECTION

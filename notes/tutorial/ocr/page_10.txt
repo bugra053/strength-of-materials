@@ -1,0 +1,38 @@
+Source: tutorial; original PDF page 10.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_10.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+EXAMPLE O During the tenricn test, the wrrden
+specimen is sulgected to an average vermal
+strers of 2 MPa. Determive the axial ferce P
+applied to the specimen. Alv, fird the average shear rtress
+devekped alang section a-a
+of the rpecimen Ap
+INTERNAL LOADING:
+T£
+- 20
+P
+2
+4F1
+10=0
+I+I-N=O
+{ Fyro =0
+=> N=P
+F - Va-a=0
+spec. c-s:
+A = 10￾20 = 200 mm=
+N
+Gang = A
+2MPа = 200мm= => N= 2 тм - 200 mm₴
+N= 400N
+N=P
+P
+Va-a = 2
+=200N
+Аа-а = 20.40 = 800 mm г
+Va-a
+(Ta-aJavg = Aara
+- =
+200N
+800mm= = 0,25MPa
+- TENSILE STRENGTH

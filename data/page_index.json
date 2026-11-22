@@ -1,0 +1,357 @@
+[
+  {
+    "source_id": "tutorial",
+    "pdf_page": 1,
+    "title": "Force types, support reactions and equilibrium",
+    "topics": [
+      "statics",
+      "supports",
+      "equilibrium"
+    ],
+    "manual_review_note": "Cable, roller, pin and fixed support idealizations; force components and 2D/3D equilibrium.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_01.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_01.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "tutorial",
+    "pdf_page": 2,
+    "title": "Example 1.1: internal loads at C in a cantilever",
+    "topics": [
+      "distributed load",
+      "triangular",
+      "section",
+      "N",
+      "V",
+      "M"
+    ],
+    "manual_review_note": "Cut the beam and use the triangular load over the selected segment; centroid and force/moment balance.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_02.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_02.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "tutorial",
+    "pdf_page": 3,
+    "title": "Example 1.2: support reaction and section C",
+    "topics": [
+      "reactions",
+      "cut",
+      "distributed load",
+      "moment"
+    ],
+    "manual_review_note": "Partial uniformly distributed load and end point load; convert mm to m for moment arms.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_03.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_03.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "tutorial",
+    "pdf_page": 4,
+    "title": "Example 3: angled bent member",
+    "topics": [
+      "force components",
+      "internal loads",
+      "moment arms"
+    ],
+    "manual_review_note": "Resolve actual force direction and use geometry for perpendicular moment arms.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_04.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_04.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "tutorial",
+    "pdf_page": 5,
+    "title": "Average axial/shear stress and material definitions",
+    "topics": [
+      "normal stress",
+      "shear stress",
+      "units"
+    ],
+    "manual_review_note": "Average stress definitions; homogeneous/isotropic material and cross section.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_05.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_05.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "tutorial",
+    "pdf_page": 6,
+    "title": "Built-up cross section under axial loading",
+    "topics": [
+      "cross-sectional area",
+      "average normal stress",
+      "stress distribution"
+    ],
+    "manual_review_note": "Compute actual section area without overlapping components and show the requested stress distribution.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_06.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_06.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "tutorial",
+    "pdf_page": 7,
+    "title": "Examples 1.34 and 1.53: hollow/solid axial members and bolted joint",
+    "topics": [
+      "annulus",
+      "tension",
+      "compression",
+      "bolts",
+      "allowable shear"
+    ],
+    "manual_review_note": "Distinguish hollow and solid areas, section forces, bolt shear planes and separate joint failure modes.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_07.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_07.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "tutorial",
+    "pdf_page": 8,
+    "title": "Example 1.56: three nails and maximum force",
+    "topics": [
+      "nails",
+      "allowable shear",
+      "single shear"
+    ],
+    "manual_review_note": "Actual fastener count and resisting planes control allowable total force.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_08.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_08.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "tutorial",
+    "pdf_page": 9,
+    "title": "Strain, deformation and Cartesian strain components",
+    "topics": [
+      "normal strain",
+      "shear strain",
+      "deformation"
+    ],
+    "manual_review_note": "Original/deformed geometry; engineering shear strain is an angular change.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_09.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_09.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "tutorial",
+    "pdf_page": 10,
+    "title": "Example 1.51: wooden tension specimen and shear section",
+    "topics": [
+      "normal stress",
+      "shear stress",
+      "section"
+    ],
+    "manual_review_note": "Relate total axial load to normal stress and actual shear-plane forces/areas.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_10.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_10.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "tutorial",
+    "pdf_page": 11,
+    "title": "Example 2.3 and two inclined wires",
+    "topics": [
+      "rigid bar",
+      "wire strain",
+      "compatibility",
+      "geometry"
+    ],
+    "manual_review_note": "Rigid-bar displacement ratios and deformed wire lengths using the cosine rule.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_11.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_11.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "tutorial",
+    "pdf_page": 12,
+    "title": "Stress-strain diagrams",
+    "topics": [
+      "Hooke law",
+      "Young modulus",
+      "yield",
+      "ultimate",
+      "necking",
+      "offset yield"
+    ],
+    "manual_review_note": "Qualitative material curves, elastic/plastic ranges, initial slope, steel yield plateau and offset yield.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_12.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_12.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "tutorial",
+    "pdf_page": 13,
+    "title": "Examples 2.9 and 2.27: cable linkage and diagonal strain",
+    "topics": [
+      "rigid linkage",
+      "rotation",
+      "diagonal strain",
+      "cosine rule"
+    ],
+    "manual_review_note": "Use original lengths and changed geometry; the worked linkage uses a small-rotation displacement approximation.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_13.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_13.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "tutorial",
+    "pdf_page": 14,
+    "title": "Example 2.26: distorted plate",
+    "topics": [
+      "normal strain",
+      "shear strain",
+      "interpolation",
+      "deformed length"
+    ],
+    "manual_review_note": "Calculate point displacements, final side/diagonal lengths and signed angular strain in radians.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_14.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/ocr/page_14.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "additional",
+    "pdf_page": 1,
+    "title": "Poisson ratio, shear modulus and axial deformation",
+    "topics": [
+      "Poisson ratio",
+      "G",
+      "axial deformation",
+      "superposition"
+    ],
+    "manual_review_note": "epsilon_lat=-nu*epsilon_long; isotropic G=E/[2(1+nu)]; segmented and variable axial deformation.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_01.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/ocr/page_01.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "additional",
+    "pdf_page": 2,
+    "title": "Example 3.39: rigid beam on two aluminium cylinders",
+    "topics": [
+      "rigid beam",
+      "equal displacement",
+      "compression",
+      "diameter change"
+    ],
+    "manual_review_note": "Combine reaction equilibrium with equal compression; apply lateral Poisson strain to original diameter. Example uses E=73.1 GPa and nu=0.35.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_02.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/ocr/page_02.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "additional",
+    "pdf_page": 3,
+    "title": "Example 4.3: segmented A-36 rod",
+    "topics": [
+      "axial force",
+      "signed deformation",
+      "segmented bar"
+    ],
+    "manual_review_note": "Determine signed force in each segment before summing NL/(AE); example uses E=200 GPa.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_03.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/ocr/page_03.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "additional",
+    "pdf_page": 4,
+    "title": "Example 4.7: two rigid members and four 304 steel wires",
+    "topics": [
+      "coupled rigid bars",
+      "wire extension",
+      "moving supports"
+    ],
+    "manual_review_note": "Solve member equilibrium, wire extensions and rigid-member interpolation; include support displacement. Example uses E=28e6 psi.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_04.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/ocr/page_04.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "additional",
+    "pdf_page": 5,
+    "title": "Example 4.67: rigid bar suspended by three equal bars",
+    "topics": [
+      "statically indeterminate",
+      "compatibility",
+      "equal stiffness"
+    ],
+    "manual_review_note": "Equilibrium plus a linear displacement compatibility relation; equal bars do not imply equal forces.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_05.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/ocr/page_05.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "additional",
+    "pdf_page": 6,
+    "title": "Example 3.14: pipe and A-36 guy wire",
+    "topics": [
+      "inclined cable",
+      "elastic strain",
+      "yield check",
+      "elongation"
+    ],
+    "manual_review_note": "Obtain cable tension from equilibrium, check elastic applicability, then extension. Example uses E=29000 ksi and yield stress 36 ksi.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_06.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/ocr/page_06.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "additional",
+    "pdf_page": 7,
+    "title": "Example 3.16: hollow square bar, bilinear loading and unloading",
+    "topics": [
+      "plasticity",
+      "bilinear graph",
+      "unloading",
+      "permanent elongation"
+    ],
+    "manual_review_note": "Read correct graph branch; unloading parallel to initial elastic slope; separate total, recovered and permanent strain.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_07.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/ocr/page_07.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "additional",
+    "pdf_page": 8,
+    "title": "Example 3.21: rigid beam tilt, tension rod and compression strut",
+    "topics": [
+      "stress-strain graph",
+      "tension",
+      "compression",
+      "beam rotation"
+    ],
+    "manual_review_note": "Use the supplied material graph and actual member geometry, then combine opposite endpoint displacements for tilt.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_08.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/ocr/page_08.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "additional",
+    "pdf_page": 9,
+    "title": "Examples 3.25 and 3.33: acrylic rod and rubber pads",
+    "topics": [
+      "Poisson ratio",
+      "diameter change",
+      "shear deformation",
+      "rubber"
+    ],
+    "manual_review_note": "Acrylic example uses E=2.7 GPa and nu=0.4; symmetric rubber-pad example uses G=0.20 MPa. Do not transfer these properties to unrelated materials.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_09.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/ocr/page_09.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  },
+  {
+    "source_id": "additional",
+    "pdf_page": 10,
+    "title": "Example 3.41: stone, friction and rubber shear",
+    "topics": [
+      "friction limit",
+      "equilibrium",
+      "shear modulus",
+      "rubber"
+    ],
+    "manual_review_note": "Find reaction and limiting friction before rubber shear deformation; source gives rubber E=4 MPa and nu=0.35.",
+    "image_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_10.png",
+    "ocr_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/ocr/page_10.txt",
+    "ocr_status": "automatic, unverified; equations and numeric signs must be checked against original image"
+  }
+]

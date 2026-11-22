@@ -1,0 +1,23 @@
+Source: tutorial; original PDF page 4.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_04.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+FAMPLE 3
+0,3m
+9,30°
+30°
+80~
+45°
+VA
+MA
+- NA
+{ Fx =0
+½ Fx = NA - 80.cOS15° =0
+NA =77,3N
+≤ Fy = 0
+VA - 80• sin 15°=0
+VA = 20, 7N
+{ MA=O
+MA+80 cOs45°.(0,3•cOs30°)
+- 80 sin45° (0,1+0,3 sin30°) =0
+MA =-0,555 Nm 2MA

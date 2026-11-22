@@ -1,0 +1,52 @@
+Source: additional; original PDF page 2.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_02.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+EXAMPLE O The sigid beam vests in the henisental positien
+en twr 2014-T6 aluminum cylinders having the
+unloaded lengths shawn. If each cylinder has a diameter of
+30 mm, determive the placement x of the applied 20kN lood re
+that the beam vemains herisontal. wthat is the new drameter of
+cylinder A after the lad is applied? Yal = 0,35
+80kN
+120mm
+В Т2л0о тт
+3 m
+8OX
+EMA
+=0 /
+2 Мв
+=0/
+FB•3-80x=0
+- FA • 3+ 80(3-x)=0
+FB =
+80(3-x)
+FA =
+SA = SB
+(HORIZONTAL)
+б =Å
+/ E=
+E
+8 = E￾L =(É) ￾L =
+P.L
+A•E
+SА = бВ;
+80 (3-x)
+-. 220
+80x (210)
+A￾E
+80(3-х)220=80х(210)
+x=1,53m
+=> FA =39,07kN
+бА =
+FA =
+39,07:10
+= 55,27 MPa
+.. (0,03)г
+55,
+,27.10°
+ELong =
+-=-0,000756
+73,1.109
+E L•t = -V• ELsng= -0,35 . (-0,000756) =0,0002646
+J'À =dA + dELat = 30+30 (0,0002646) = 30,008 mm

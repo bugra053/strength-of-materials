@@ -1,0 +1,61 @@
+Source: additional; original PDF page 8.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_08.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+(3.21.) EXAMPLE
+Ihe stress-strain diagram fer a polyesten vezim is given in
+the figure. If the siged beam is ruppated ly a stut AB
+and fost CD, beth made frem this naterial, and rubzected to a
+wad ef P=8okN, setermine the angle of tilt of the beam ruhen
+the load is applied. The diameter of the strit is 40 mm and
+the deameter of the pest is 80 mun.
+d LMPa]
+100
+compression
+2M
+JP
+50
+0,75 м
+0,75m
+10,5m
+32,2
+20
+Е = 32,2.10 = 3,22. (109) Pа
+32,2.10°
+0,01
+бАВ =
+FAB
+40.103
+= 31,83 MPа
+AAD
+1 (0,04)г
+0,01
+FABS40KN
+AB
+EAB =
+31,83.10
+3,22.109
+=0,009885 mm/mm
+GCD =
+FCD
+ACD
+40.10
+7,958 MPa
+•(0,08)2
+E CD =
+CD
+7,958.10
+=
+= 0,002471 An/un
+3/22 10ł
+бАВ = EABLAB =0,009885•2000 = 19,771 мm
+S cD = Eco LcD = 0,002471 . 500 =1,236 mm
+18,535
+Eand =
+1500
+=> L=0,708°
+tension
+0,03 0,04
+80kN
+0/75 ~>
+KOIREm→TFcOS4OKN

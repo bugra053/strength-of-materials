@@ -1,0 +1,25 @@
+{
+  "authority": "Original user-supplied handwritten course notes and worked examples. Not a complete property-table appendix.",
+  "sources": [
+    {
+      "id": "tutorial",
+      "original_filename": "SOM_Tuto.pdf",
+      "pdf_path": "sources/SOM_Tuto.pdf",
+      "page_count": 14,
+      "sha256": "2865c6472b3223193ce39c0440f5d278b8f02e6ad9ada0f2f2a6ce98514cbdc8",
+      "pdf_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/sources/SOM_Tuto.pdf",
+      "format": "image-only handwritten scan",
+      "page_image_pattern": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_NN.png"
+    },
+    {
+      "id": "additional",
+      "original_filename": "1 (8).pdf",
+      "pdf_path": "sources/1 (8).pdf",
+      "page_count": 10,
+      "sha256": "f77fc1cc06c3524a9a5f6412e475ad337c4a82bdd5c0789a0ac90b8b098eeb48",
+      "pdf_url": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/sources/1%20%288%29.pdf",
+      "format": "image-only handwritten scan",
+      "page_image_pattern": "https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_NN.png"
+    }
+  ]
+}

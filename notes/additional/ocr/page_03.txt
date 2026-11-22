@@ -1,0 +1,29 @@
+Source: additional; original PDF page 3.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_03.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+4.3.
+The A-36 steel ved is rulyicted to the
+EXAMPLE 2
+loading shaun. If the evuss-sectieval area
+of the ned is 50 mm".
+determine the dirplacement ef its end D.
+Neglect the rise of the couplings at B, c, and D.
+→ 1,5 m
+→1,25 m
+BKN B
+AkN
+→ 2kN
++→ 2KN
+РAB = -3KN
+PBc = 6kN
+<O N 3KN
+PcD = 2kN
+2kN
+A = 50mm": (100mm) =50:10 m=
+SD= 2 FIE: = A.ED (PABiLAB + PoCLBc + PeDiLco) =
+50.10-6
+• 200.10°
+= 0,850
+• [-3.10.1+6.10 :1,5 + 2.10 1,25]= 0,85.1ồ m =
+( → end D moves away fram the fixed ruppat)

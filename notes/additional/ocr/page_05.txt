@@ -1,0 +1,40 @@
+Source: additional; original PDF page 5.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_05.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+EXAMPLE !
+The three surpender bavs ave wode of the rame
+4-67ł
+nateral and have egual cvoss- sesticval aveas A.
+Determine the average vermal stress inr ead bar if the sigid beam
+ACE is rubjited to the farce P.
+FAB
+AFcD
+TFEF
+Sa-Se U .. 19 do-de -
+[ ≤M=0 ;
+FeD•d +FEF 2d- P. 2 =0
+FCD +2FEF = 2
+pO4Fy=O ; FAB+FcD+FEr-P=0
+Sc-SE
+бА-бЕ
+2 d
+2dc= dA+dE
+2Fco:L
+AE
+FAD• L
+A-E
++
+FEF.L
+A•E
+2 FcD - FAB - FEF =O
+7P
+FAB = 12
+FcD = P
+FER=A
+БАВ =
+7P
+12A
+P
+6 cD = 3A
+CEF = RA

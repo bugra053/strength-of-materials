@@ -1,0 +1,75 @@
+Source: additional; original PDF page 4.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_04.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+EXAMPLE
+The lood of 8002b is suppated by the feur 304
+4-7
+stainless stee wives that are cemected to the ngid
+members AB and BC Determine the vertical displacement of
+the lead if the members were hinsartal befere the load was
+applied. Each wire has a evss - rectienal avéa ef 0,05 in-.
+E
+F
+FAH
+AAESA
+80046
+4ft
+FBC
+uft.
+D
+H
+k21.
+4, sft.
+Sft.
+8006
+A
+KIEtJ
+FDE
+FcF
+*2ft.,
+sft
+62MA=0
+FBc •5-800￾1=ą
+=> FBc = 160L6
+S<MD=0 ; 800.4-FAn'5 =0
+=> FAH = 640L6
+\(OMp=0; FcF. 7-160•7-640•2=0
+=→FcF=342,86L6
+FcF. 7 = 160•7+640•2
+160.7+640.2
+Fsc= 160Lb
+FcF =
+FAH=640L6
+• 12 → ft. to in.
+FOE •LOE
+E, F-fixed: sD=
+A• Est
+SOMc=0; 640•5 - FDE •7=0
+FDE = 457,14Lb
+457,14.4.12
+0,05 • [28.(108)] = 0,01567 in.
+Sc =
+FCF• LCF
+342,86.4.12ł
+= 0,01176 in. V
+A • Est
+0,05￾ [28.(104)]
+7ft.
+5ft.
+AFE
+Sн = 0,01176+· (0,01567-0,01176) = 0,01455 i. V
+FAH •LAH
+640.4,5.12
+SАІн =
+= 0,02469 м. łł
+A•Est.
+0,05 [28• (10")]
+SB/C =
+FBC . LBC
+160.4,5. 12
+A•ESt
+0,05. [28.90)93iạ0,006171 м. L
++| ба = бн+ бАн = 0,01455 +0,02469 = 0,03924 й. г
++ бВ = Sc+бВ/с = 0,01176+0,006171=0,01793 м.L
+бр=0,01793+ · (0,03924 - 0,01793) = 0,0350 м. L

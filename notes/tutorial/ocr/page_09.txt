@@ -1,0 +1,26 @@
+Source: tutorial; original PDF page 9.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_09.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+STRENGTH OF MATERIALS
+23.10.2025.
+(THURSDAY; AFA25 +RDC)
+STRAIN; DEFORMATION;THE STRESS-STRAIN
+DIAGRAM
+(TEMPERATURE)
+FORCE TO BODY → SHAPE AND SIZE=DEFORMATION
+15
+1//1
+STRAIN →EXPERIMENT : E
+SHEAR STRAIN : JL
+CARTESIAN STRAIN COMPONENTS:
+(1+Ex) Ax (1+Ey) dY
+(1+E2) DZ →VOLUME
+I-Hxy I -pyz
+I - 81 xz
+→ SMAPE
+5 - giжy
+(1+ EDz-
+E- *Y
+(1+Ex) AY
+(1 + Ex)Ax

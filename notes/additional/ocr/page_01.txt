@@ -1,0 +1,34 @@
+Source: additional; original PDF page 1.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/additional/pages/page_01.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+STRENGTH OF MATERIALS
+07.11.2025.
+Erong = I
+ELet =
+V(nu) = -
+E Let
+Eong
+→ POISSON, CH. 3.6.
+shear
+moduLus of eLasticit-
+(modulus of rigidity
+T = G•p
+HOOKE'S LAW FOR SHEAR
+G = 2 (1+V)
+P (x)
+A (x)
+= E ￾ (dx
+d=ý
+P(x) dx
+A(x)•E
+f = P.L
+A•E
+= > б = 4 AL
+PRINCIPLE OF
+SUPERPOSITION:
++
+Pz
+FREE
+BODY
+DIAGRAM

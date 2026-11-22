@@ -1,0 +1,41 @@
+Source: tutorial; original PDF page 13.
+Original image: https://raw.githubusercontent.com/bugra053/strength-of-materials/main/notes/tutorial/pages/page_13.png
+AUTOMATIC OCR — NOT VERIFIED TRANSCRIPTION. Handwriting, superscripts, Greek letters, signs and fractions may be wrong. Read the linked original image for numerical data and equations.
+
+EXAMPLE 1 (2-9)
+Part of a cantrel linkage for an airplane consists ef a
+sigid member CBD and a flesible cable AB. If a farce
+is uppliid to the end D ef the member and coures a vormal
+střain in the sable ef 0,0035 (min), determine the
+displacement ef piint D. Ongivally the rable is unstreched
+AB =V300+400= = 500 mm
+AB'= AB + EAB•AB
+300 мм
+= 500+0,0035 (500) =501,75 mm
+300 mm
+L= 90,4185°
+О = 90,4185° - 90° = 0,4185° = 180°
+(0,4185) rad
+AD = 600 (0) = 600. (180-) (0,4185)=4,38mm
+EXAMPLE
+(2-27)
+the d notgi ne dietato int tle deded poitar heng. Detes ad
+15 mm
+LAD =LCF= 80=+100 =V16400
+10
+LAD' =
+V (80+25)i1100= = V21025
+Lcp =V (80-15)=+100 =N14225mm
+до
+EAD = LAD-LAD
+LAO
+J21025 - V16400 =0,132
+V16400
+E CF =
+LeF -LCF
+114225 - V16400
+V16400
+=-0,0687 mm
+D
+75 mm
+80m
