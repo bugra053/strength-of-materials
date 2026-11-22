@@ -20,10 +20,14 @@ Recover blurry data only from an unambiguous reference match whose readable deta
 OUTPUT ONLY
 Q1 / Q2(a) / Q2(b) ...
 F: Only symbolic equations actually used.
-D: Necessary givens, geometry, material properties, units and compact sign/axis conventions.
+D: Only necessary input symbols, values, units and compact mathematical conditions. No sentences.
 S: Necessary TikZ diagram, governing equations, substitutions, essential intermediate algebra/arithmetic and boxed final answers with units.
 
 Write F:, D: and S: once per problem, with the first expression on its label's line. Reuse shared formulas/data across subparts.
+STRICT D SECTION
+D is a compact data line/group, not a written restatement of the question. Express geometry and equal properties with equations; use short necessary material/constraint/direction labels only (e.g. rigid, tension-only, +y up). No clauses such as "The bars have...", "The beam is...", "Positions are..." or "The load acts...".
+Group related quantities with commas/semicolons rather than placing each variable on its own line. Aim for a few short lines when the data permit; do not omit essential inputs to satisfy a line count. Do not repeat values across subparts, explain formulas or perform calculations in D; put required derivations/substitutions in S. Never invent equalities or omit a necessary mechanical constraint merely to shorten D.
+
 Use inline LaTeX \( ... \), actual line breaks between essential calculation steps, and \(\boxed{...}\) for final answers. Keep equations narrow. No HTML escapes or literal newline codes.
 Use equations and short labels only, apart from an explicitly requested conceptual explanation or necessary missing-data clarification. Do not write sentences such as "Since...", "Compatibility...", "Put into...", "so..." or "the rigid beam stays straight". Express conditions mathematically; never assume equal properties just because a source example had them.
 No introductions, descriptive headings, search narration, source paragraphs, links, bibliography, unused formulas or alternative methods in the answer. Short labels such as T, C, CW, CCW, up, down, elastic and plastic are allowed.
