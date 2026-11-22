@@ -4,6 +4,8 @@
 
 ## Kullanım
 
+Güncel prompt **8403 karakterdir** (UTF-16); 10.000 karakter sınırının altındadır.
+
 [calculator_prompt.txt — raw](https://raw.githubusercontent.com/bugra053/strength-of-materials/main/calculator_prompt.txt) dosyasını açıp **metnin tamamını** ayrı bir Custom Prompt alanına yapıştır. Başlık: `Strength of Materials`. Online tarama/URL okuma aracı gerekir. `online_prompt.txt` aynı içeriğin eş kopyasıdır; iki promptu birlikte yapıştırma.
 
 PDF'lerin platforma yüklenmiş olduğu varsayılmaz. Prompt önce [course_reference.txt](https://raw.githubusercontent.com/bugra053/strength-of-materials/main/course_reference.txt) dosyasını, sonra yalnızca ilgili orijinal sayfa görsellerini okur. Bir bağlantıyı promptta görmek, içeriğinin modele ulaştığını kanıtlamaz. Bu repo modelin veya 7-Cal'in araç erişimini otomatik yapılandırmaz.
