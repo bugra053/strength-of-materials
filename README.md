@@ -26,7 +26,7 @@ Bu iki kaynak ayrı bir tam malzeme/kesit tablosu eki değildir. Notlardaki örn
 - D: Gerekli verilenler, geometri, malzeme değerleri, birimler ve kısa işaret yönleri.
 - S: Denge/uyumluluk denklemleri, sayısal yerine koyma, gerekli ara işlemler ve birimli kutulu sonuçlar.
 
-Gerekli serbest cisim/kesit çizimleri ve açıkça istenen diyagramlar gösterilir. Uzun açıklama, kaynak paragrafı, gereksiz formül listesi ve atlanan son aritmetik işlem yok. Dış platformun kendi kaynak gösterimlerini prompt tek başına denetleyemez.
+Gerekli serbest cisim/kesit çizimleri ve açıkça istenen diyagramlar gösterilir. Bu sürüm çizimler için temel TikZ kullanmayı dener; 7-Cal üzerinde TikZ görüntüleme desteği henüz doğrulanmadı. Komutlar düz metin görünürse TikZ yolu o görünümde çalışmıyordur. LaTeX formül desteği tek başına TikZ desteğini kanıtlamaz. F/D/S bölümlerinde denklem ve kısa etiketler kullanılır; kontrol işlemleri ayrıca yazdırılmaz. Uzun açıklama, kaynak paragrafı, gereksiz formül listesi ve atlanan son aritmetik işlem yok. Dış platformun kendi kaynak gösterimlerini prompt tek başına denetleyemez.
 
 ## Doğrulama sınırı
 
